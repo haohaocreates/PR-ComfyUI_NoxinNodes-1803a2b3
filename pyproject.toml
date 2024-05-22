@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_noxinnodes"
+description = "Nodes: Noxin Complete Chime, Noxin Scaled Resolutions, Load from Noxin Prompt Library, Save to Noxin Prompt Library"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/noxinias/ComfyUI_NoxinNodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_NoxinNodes"
+Icon = ""
